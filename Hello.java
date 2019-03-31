@@ -3,5 +3,6 @@ class A{
 		System.out.println("Laxman");
 		System.out.println("Laxman");
 		System.out.println("Lakhan");
+		System.out.println("Lakhan");
 	}
 }
